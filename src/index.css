@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #030712;
+    color: white;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.img-logo{
+    width: 160px;
+}
+
+.btn-ejecutar{
+    background-color: rgb(0, 161, 86);
+    width: 100%;
+}
+
+.a-footer{
+    color: rgb(0, 193, 113);
+}
